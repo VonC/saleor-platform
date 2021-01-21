@@ -3,7 +3,7 @@
 	url = https://github.com/mirumee/saleor.git
 [submodule "saleor-storefront"]
 	path = saleor-storefront
-	url = https://github.com/mirumee/saleor-storefront.git
+	url = https://github.com/VonC/saleor-storefront
 [submodule "saleor-dashboard"]
 	path = saleor-dashboard
 	url = https://github.com/mirumee/saleor-dashboard.git
